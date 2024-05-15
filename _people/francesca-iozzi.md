@@ -23,6 +23,8 @@ groups:
     role: Sub-project leader
     finished: yes
   provider-forum:
+    role: chair
+    finished: yes
   fdf-providers:
     role: Representing Sigma2 AS
   sdf-providers:

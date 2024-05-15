@@ -47,4 +47,12 @@ groups:
     role: Chair
   eosc-nordic:
     role: Project Owner
+  provider-forum:
+    role: Secretary
+  heilsa:
+    role: Project manager
+  heilsa-sg:
+    role: Project owner and manager
+  heilsa-po:
+    role: Project owner and manager
 ---

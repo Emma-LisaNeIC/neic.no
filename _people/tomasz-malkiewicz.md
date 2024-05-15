@@ -73,4 +73,8 @@ groups:
     role: Project owner
   neic2022-pc:
     role: Chair
+  nordiquest-sg:
+    role: Project owner
+  nordiquest-po:
+    role: Project owner
 ---

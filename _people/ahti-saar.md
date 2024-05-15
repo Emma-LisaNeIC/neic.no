@@ -16,4 +16,5 @@ groups:
   neic2022-oc:
   nordiquest:
   nordiquest-sg:
+  provider-forum:
 ---

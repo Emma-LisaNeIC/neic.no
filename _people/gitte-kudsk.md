@@ -12,5 +12,6 @@ has_been_on_contract: no
 groups:
   board:
   provider-forum:
+    finished: yes
 ---
 Board member since 2021-01-01.

@@ -11,6 +11,7 @@ on_contract: yes
 has_been_on_contract: no
 groups:
   provider-forum:
+    finished: yes
   glenna2:
     finishes: no
   

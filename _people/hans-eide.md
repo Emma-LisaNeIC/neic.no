@@ -11,7 +11,7 @@ on_contract: no
 has_been_on_contract: no
 groups:
   provider-forum:
-    finished: yes
+    role: Chair
   neic2017-prg:
   neic2015-pc:
   board:
