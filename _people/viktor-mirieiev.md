@@ -7,9 +7,10 @@ country: "EE"
 photo:
 email: viktor.mirieiev@ut.ee
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   puhuri:
   nordiquest:
+    finished: yes
 ---
