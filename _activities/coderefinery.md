@@ -40,7 +40,7 @@ groups:
   coderefinery-sg:
     name: Steering group
     description: Governance.
-    minutes: https://wiki.neic.no/wiki/Category:CodeRefinery_meetings
+    minutes: https://drive.google.com/drive/folders/1wD_fzR94sTcqy-o8Rc1Qbl_l0HUFauHt
     frequency: 3-4 per year
   coderefinery-po:
     name: Project office
