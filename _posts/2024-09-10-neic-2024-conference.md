@@ -31,9 +31,9 @@ The internal All-hands meeting offered an overview of the ongoing NeIC activitie
 The external conference kicked off with welcome words from representatives from the Estonian government and from NeIC. We had the pleasure of hearing **Hisham Kholidy** from the State University of New York (SUNY) Polytechnic Institute presenting innovation, trends, and future of cybersecurity, and **Arne Flåøyen**, the Director of NordForsk, who talked about the future of Nordic infrastructure collaboration in light of the Nordic Council of Ministers' vision. In the afternoon, authors of the submitted papers were invited to present their topics. 
 
 <img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p1-15.jpg" class="center">
-<img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p1-64.jpg" class="center">
+<img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p1-66.jpg" class="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p2-10.jpg" class="center">
-<img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p2-27.jpg" class="center">
+<img class="normal" src="{% include baseurl %}/assets/images/news/NeIC Day3p1-37.jpg" class="center">
 
 The second day saw three keynotes from several fields of science: **Mario Kadastik** from the Parliament of Estonia talked about the critical role of e-infrastructures in advancing scientific research; **Mikael Johansson** from CSC gave a presentation on the limits and potential of quantum computing; **Anis Yazidi** from OsloMET spoke on AI-powered paradigm shift; and NeIC’s executive manager **Tomasz Malkiewicz** presented our project management office and the projects, with a focus on the impacts of the collaboration. The afternoon was spent in workshops. There were several to choose from, topics ranging from using AI tools for biomedical sciences to installing and configuring ARC (Advanced Resource Connector). 
 
