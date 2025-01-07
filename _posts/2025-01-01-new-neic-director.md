@@ -6,7 +6,7 @@ photo: /assets/images/latest-news-91.jpeg
 
 New director for NeIC
 ===========================
-**Tomasz Malkiewicz** has been appointed Interim Director of NeIC for the year 2025. 
+**Tomasz Malkiewicz**  has been appointed Interim Director of NeIC for the year 2025. 
 
 The decision was made by NeIC’s Strategic Committee, which is a steering body replacing the NeIC Board from 1 January 2025. The committee consists of representatives from the six national e-infrastructure provider organisations: Sigma2, DeiC, RHnet, NAISS, CSC, and ETAIS. 
 
