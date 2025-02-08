@@ -28,9 +28,6 @@ links:
   - url: https://coderefinery.org/calendars/
     text: Event and workshop calendars
     description: Here you can subscribe to various calendars
-  - url: https://twitter.com/coderefine
-    text: Twitter
-    description: Main news channel
   - url: https://github.com/coderefinery
     text: GitHub
     description: Holds website and lesson sources
