@@ -5,11 +5,12 @@ name: Joachim Hein
 home: <a href="http://www.lunarc.lu.se/">LUNARC</a>
 country: SE
 photo:
-email: Joachim.Hein@math.lu.se
+email: jhein@naiss.se
 phone:
 on_contract: no
 has_been_on_contract: no
 groups:
   poco-wg:
   ratatosk-sg:
+  coderefinery-sg:
 ---

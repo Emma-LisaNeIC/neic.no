@@ -1,11 +1,11 @@
 ---
 layout: master
 include: person
-name: Pauliina Somerkoski
+name: Atte Sillanpää
 home: <a href="https://csc.fi/">CSC</a>
 country: FI
 photo:
-email: pauliina.somerkoski@csc.fi
+email: atte.sillanpaa@csc.fi
 phone:
 on_contract: no
 has_been_on_contract: no

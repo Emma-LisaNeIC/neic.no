@@ -11,5 +11,4 @@ on_contract: no
 has_been_on_contract: no
 groups:
   xt-board:
-  coderefinery-sg:
 ---
