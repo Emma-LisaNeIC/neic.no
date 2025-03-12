@@ -1,3 +1,8 @@
+---
+title: Building Sustainable E-Infrastructure Through Effective Handover  
+summary: This blog discussed on successful project handover process  
+photo: /assets/images/latest-news-10.png
+---
 # Beyond Development \- Building Sustainable E-Infrastructure Through Effective Handover
 
 ## **Authors**
