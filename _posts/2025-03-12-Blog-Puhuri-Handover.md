@@ -46,7 +46,7 @@ Survey results highlight the importance of structured, proactive approaches to p
 The Puhuri three-stage model is a further development of NeIC’s standard project model where the project ends with a transferral and closure.
 
 <p align="center">
-<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_01.jpeg" class="center"> </p>
+<img class="normal" src="{% include baseurl %}/assets/images/news/blog_202503_01.jpeg" class="center"> </p>
 <p align="center"><i>Diagram 1: NeIC project model begins by defining the project outcome targets and then defining the content in a more detailed project plan, which is kept updated. The delivery and transfer process depends on the different projects.</i></p>
 
 The Puhuri2 project has developed key recommendations for the successful handover of its results to the receiving organization. These recommendations also apply to similar projects that are planning a service transfer and handover process.
@@ -75,7 +75,8 @@ For similar projects, early planning is essential. Defining roles and responsibi
      * Transferring or terminating existing contracts.  
      * Ensuring skillset transfer through training and knowledge sharing.  
      * Using checklists to ensure all items are transferred.  
-   * Effective communication and collaboration between Puhuri and the receiving organisation are crucial.  
+   * Effective communication and collaboration between Puhuri and the receiving organisation are crucial.
+     
 3. **Closure:** This final stage focuses on evaluating the transferral process and formally closing the project. The goal is to ensure a successful transition and identify areas for improvement. A NeIC Project is required to deliver a final report. Its content can be used as lessons learned. Naturally, it is not certain that new projects have been analysed and used all experience, but the NeIC’s project owners have experience.
 
    * Key activities include:  
@@ -85,7 +86,7 @@ For similar projects, early planning is essential. Defining roles and responsibi
      * Writing a final report.
 
 <p align="center">
-<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_02.jpeg" class="center"> </p>
+<img class="normal" src="{% include baseurl %}/assets/images/news/blog_202503_02.jpeg" class="center"> </p>
 <p align="center"><i>Diagram 2: Puhuri’s Three-stage transferral process. The actions in the implementation phase shall occur in an appropriate phase within the project timeline.</i></p>
  
 ## Legal and Contractual Considerations
@@ -127,7 +128,7 @@ This systematic approach helps organisations preserve project value beyond tradi
 NeIC piloted an affiliate model where a small amount of funding could be applied to support the benefit realisation activities after the Project finishes.  
 
 <p align="center">
-<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_03.jpeg" class="center"> </p>
+<img class="normal" src="{% include baseurl %}/assets/images/news/blog_202503_03.jpeg" class="center"> </p>
 <p align="center"><i>Diagram 3: Diagram 3: Project handover checklist.</i></p>
  
 In essence, Puhuri's process emphasises meticulous preparation, active implementation, and thorough evaluation to ensure a seamless and sustainable transfer of its e-infrastructure services.
