@@ -129,7 +129,7 @@ NeIC piloted an affiliate model where a small amount of funding could be applied
 
 <p align="center">
 <img class="normal" src="{% include baseurl %}/assets/images/news/blog_202503_03.png" class="center"> </p>
-<p align="center"><i>Diagram 3: Diagram 3: Project handover checklist.</i></p>
+<p align="center"><i>Diagram 3: Project handover checklist.</i></p>
  
 In essence, Puhuri's process emphasises meticulous preparation, active implementation, and thorough evaluation to ensure a seamless and sustainable transfer of its e-infrastructure services.
 
