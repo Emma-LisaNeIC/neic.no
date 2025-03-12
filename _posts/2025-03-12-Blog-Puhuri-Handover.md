@@ -9,21 +9,19 @@ Beyond Development \- Building Sustainable E-Infrastructure Through Effective Ha
 
 ## **Authors**
 
-Emma-Lisa Hansson, Jarno Laitinen, Susanne Ketill Groth, Ahti Saar, Anders Sjöström
-
-## 
+Emma-Lisa Hansson, Jarno Laitinen, Susanne Ketill Groth, Ahti Saar, Anders Sjöström 
 
 ## **Target audience**
 
-## The target audience for this article is: 
+The target audience for this article is: 
 
-* ## Project managers in e-infrastructure and technology fields.
+* Project managers in e-infrastructure and technology fields.
 
-* ## Funding bodies and organisations supporting research and development.
+* Funding bodies and organisations supporting research and development.
 
-* ## Individuals involved in governance and operational transfer of complex projects.
+* Individuals involved in governance and operational transfer of complex projects.
 
-* ## Anyone interested in the long-term sustainability of research infrastructures.
+* Anyone interested in the long-term sustainability of research infrastructures.
 
 ## Introduction
 
@@ -45,12 +43,11 @@ Survey results highlight the importance of structured, proactive approaches to p
 
 ### Puhuri's three-stage transferral process 
 
-### The Puhuri three-stage model is a further development of NeIC’s standard project model where the project ends with a transferral and closure.
+The Puhuri three-stage model is a further development of NeIC’s standard project model where the project ends with a transferral and closure.
 
-### 
-
-photo: /assets/images/blog_202503_01.jpeg    
-*Diagram 1: NeIC project model begins by defining the project outcome targets and then defining the content in a more detailed project plan, which is kept updated. The delivery and transfer process depends on the different projects.*
+<p align="center">
+<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_01.jpeg" class="center"> </p>
+<p align="center"><i>Diagram 1: NeIC project model begins by defining the project outcome targets and then defining the content in a more detailed project plan, which is kept updated. The delivery and transfer process depends on the different projects.</i></p>
 
 The Puhuri2 project has developed key recommendations for the successful handover of its results to the receiving organization. These recommendations also apply to similar projects that are planning a service transfer and handover process.
 
@@ -87,10 +84,10 @@ For similar projects, early planning is essential. Defining roles and responsibi
      * Providing feedback mechanisms for both parties.  
      * Writing a final report.
 
-photo: /assets/images/blog_202503_02.jpeg 
-
-*Diagram 2: Puhuri’s Three-stage transferral process. The actions in the implementation phase shall occur in an appropriate phase within the project timeline.*   
-
+<p align="center">
+<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_02.jpeg" class="center"> </p>
+<p align="center"><i>Diagram 2: Puhuri’s Three-stage transferral process. The actions in the implementation phase shall occur in an appropriate phase within the project timeline.</i></p>
+ 
 ## Legal and Contractual Considerations
 
 Conducting legal due diligence, securing necessary approvals, and updating contracts are crucial to ensure a smooth transition. This work should not be performed at the end of the project but be a vital part from the onset to ensure that problems do not arise.
@@ -128,9 +125,11 @@ Each dimension progresses through Planning (establishing initial requirements), 
 This systematic approach helps organisations preserve project value beyond traditional delivery milestones by explicitly planning for the transition from inception, reducing handover friction, and maintaining momentum as projects evolve into their next phase.
 
 NeIC piloted an affiliate model where a small amount of funding could be applied to support the benefit realisation activities after the Project finishes.  
-photo: /assets/images/blog_202503_03.jpeg  
-*Diagram 3: Project handover checklist*
 
+<p align="center">
+<img class="normal" src="{% include baseurl %}/assets/images/blog_202503_03.jpeg" class="center"> </p>
+<p align="center"><i>Diagram 3: Diagram 3: Project handover checklist.</i></p>
+ 
 In essence, Puhuri's process emphasises meticulous preparation, active implementation, and thorough evaluation to ensure a seamless and sustainable transfer of its e-infrastructure services.
 
 ## NeIC project practices and survey results
