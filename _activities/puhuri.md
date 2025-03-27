@@ -86,3 +86,6 @@ Consortium:
 * NAISS, SE
 * DeiC, DK
 
+### Observers
+* IT4I
+* SUNET
