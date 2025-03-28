@@ -3,7 +3,7 @@ layout: master
 include: activity
 name: NeIC office
 type: Operations
-leader: gudmund-host
+leader: tomasz-malkiewicz
 start: 2012-01-01
 results: N/A
 outreach: N/A
