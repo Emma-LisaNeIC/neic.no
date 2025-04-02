@@ -4,7 +4,7 @@ include: person
 name: Samantha Wittke
 home: <a href="https://www.csc.fi/">CSC</a>
 country: FI
-photo: assets/images/people/samanth-wittke.JPG
+photo: 
 email: samantha.wittke@csc.fi
 phone:
 on_contract: yes
