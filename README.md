@@ -70,7 +70,7 @@ Example: https://yohell.github.io/neic.no.
 ### Work locally if you can (not trivial on Windows)
 
 1. Clone the source code to your laptop.
-2. Serve it with `jekyll serve`.
+2. Serve it with `bundle exec jekyll serve`.
 3. See changes live on [http://localhost:4000/](http://localhost:4000/).
 4. Edit until happy.
 5. Commit.
