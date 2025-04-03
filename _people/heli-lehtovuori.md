@@ -4,7 +4,7 @@ include: person
 name: Heli Lehtovuori
 home: <a href="https://csc.fi">CSC</a>
 country: "FI"
-photo: 
+photo: assets/images/people/heli-lehtovuori.jpg
 email: 
 phone: 
 on_contract: yes
