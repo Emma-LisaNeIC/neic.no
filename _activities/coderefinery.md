@@ -3,10 +3,10 @@ layout: master
 include: activity
 name: CodeRefinery
 type: Project
-leader: radovan-bast
+leader: samantha-wittke
 phase: Execution
-start: 2016-10-01
-end: 2025-02-28
+start: 2025-05-15
+end: 2028-05-14
 results: https://coderefinery.org/about/reports/
 outreach: https://coderefinery.org/blog/
 documents:
