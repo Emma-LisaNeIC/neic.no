@@ -1,0 +1,10 @@
+name: Build preview of neic.no page on a VM somewhere
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: self-hosted
+    steps:
+      - name: Checkout
+        run: /home/tiggi/publish_branch_action.sh
