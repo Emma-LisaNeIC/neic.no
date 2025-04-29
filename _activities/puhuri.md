@@ -8,8 +8,6 @@ phase: In progress
 start: 2020-06-01
 end: 2025-05-31
 finished: no
-results: https://wiki.neic.no/wiki/Puhuri
-outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
    - text: Project Plan
      url: https://wiki.neic.no/w/ext/img_auth.php/c/ce/Puhuri_2_Project_Plan_20220603.pdf 
