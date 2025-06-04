@@ -37,6 +37,10 @@ groups:
     role: Project Manager
   pari-aff-po:
     role: Project Owner
+  puhuri:
+    role: Project Owner
+  puhuri-sg:
+    role: Chair
   nt1-sg:
     role: Chair
   nt1:
