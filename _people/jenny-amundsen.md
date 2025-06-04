@@ -9,4 +9,7 @@ email: jenny.amundsen@sigma2.no
 phone:
 on_contract: no
 has_been_on_contract: yes
+groups:
+  puhuri-sg:
+    finished: yes
 ---
