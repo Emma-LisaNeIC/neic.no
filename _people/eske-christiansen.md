@@ -11,6 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   puhuri:
+    finished: yes
   puhuri-sg:
   provider-forum:
 ---
