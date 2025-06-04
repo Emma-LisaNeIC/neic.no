@@ -21,8 +21,10 @@ groups:
     role: Project owner
   puhuri-sg:
     role: Project owner, Chair
+    finished: yes
   puhuri-po:
     role: Project owner
+    finished: yes
   tryggve-po:
     role: Project owner
   tryggve1-sg:
