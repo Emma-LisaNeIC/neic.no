@@ -45,20 +45,21 @@ links:
     text: Puhuri landing
     description: Landing page for the Puhuri service
 groups:
-  puhuri-sg:
-    name: Steering Group
-    description: Governance.
-    frequency: 3-4 per year
   puhuri:
     name: Project Group
-    description: Implementation of the project
-    frequency: biweekly meetings
+    minutes: Internal document management system
+    frequency: The project group is havign biweekly meetings
+    description: Implementation of the project work.
+  puhuri-sg:
+    name: Steering Group
+    minutes: Internal document management system
+    frequency: Meetings 3-4 times per year
+    description: Governance and priorisation decisions
   puhuri-rg:
     name: Reference Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
-    frequency: quaterly
-    description: <a href="https://wiki.neic.no/wiki/Puhuri#Reference_Group">Reference Group members</a>
-     
+    frequency: Meeting frequency 3 times per year
+    description: <a href="https://wiki.neic.no/wiki/Puhuri#Reference_Group">Reference Group members</a> 
 ---
 ## Puhuri
 
