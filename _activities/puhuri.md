@@ -29,7 +29,7 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf
    - text: D.A2.1. Current state report in April 2023
      url: https://wiki.neic.no/w/ext/img_auth.php/0/0c/DA2.1.pdf   
-   - text: Puhuri Whitepaper, October 2023
+   - text: Puhuri Whitepaper, May 2025
      url: https://wiki.neic.no/w/ext/img_auth.php/8/80/Puhuri_Whitepaper.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
@@ -47,12 +47,12 @@ links:
 groups:
   puhuri:
     name: Project Group
-    minutes: Internal document management system
+    minutes: https://wiki.neic.no/int/Puhuri 
     frequency: The project group is havign biweekly meetings
     description: Implementation of the project work.
   puhuri-sg:
     name: Steering Group
-    minutes: Internal document management system
+    minutes: https://wiki.neic.no/int/Puhuri 
     frequency: Meetings 3-4 times per year
     description: Governance and priorisation decisions
   puhuri-rg:
