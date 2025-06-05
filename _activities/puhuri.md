@@ -30,7 +30,7 @@ documents:
    - text: D.A2.1. Current state report in April 2023
      url: https://wiki.neic.no/w/ext/img_auth.php/0/0c/DA2.1.pdf   
    - text: Puhuri Whitepaper, May 2025
-     url: https://wiki.neic.no/w/ext/img_auth.php/8/80/Puhuri_Whitepaper.pdf
+     url: https://wiki.neic.no/w/ext/img_auth.php/7/75/Whitepaper_.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
@@ -75,7 +75,5 @@ Consortium:
 * ETAIS, EE
 * NAISS, SE
 * DeiC, DK
-
 Observers:
-* University of Iceland, IS
 * IT4I IT4Innovations National Supercomputing Center, CZ 
