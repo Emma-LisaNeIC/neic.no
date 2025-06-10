@@ -1,6 +1,6 @@
 ---
 title: New senior advisor
-summary: "Miachela Barth"
+summary: "Michaela Barth"
 photo: /assets/images/latest-news-91.jpeg
 ---
 
