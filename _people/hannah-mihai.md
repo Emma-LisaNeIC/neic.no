@@ -1,17 +1,14 @@
 ---
 layout: master
 include: person
-name: Eske Christiansen
+name: Hannah Mihai
 home: <a href="https://www.deic.dk/">DeiC</a>
 country: DK
 photo:
-email: eske.christiansen@deic.dk
+email: hannah.mihai@deic.dk
 phone:
 on_contract: yes
-has_been_on_contract: yes
+has_been_on_contract: no
 groups:
   puhuri:
-    finished: yes
-  puhuri-sg:
-  provider-forum:
 ---

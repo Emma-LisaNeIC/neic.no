@@ -11,10 +11,8 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   puhuri:
-    role: Project manager
+    role: Benefit Owner
   puhuri-sg:
-    role: Project manager
-  puhuri-po:
-    role: Project manager
+    role: Benefit Owner
   dellingr:
 ---

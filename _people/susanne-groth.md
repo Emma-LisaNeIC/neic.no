@@ -7,8 +7,9 @@ country: DK
 photo:
 email: susanne.groth@deic.dk 
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: no
 groups:
   puhuri:
+    finished: yes
 ---

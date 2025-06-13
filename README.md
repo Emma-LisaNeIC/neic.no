@@ -70,7 +70,7 @@ Example: https://yohell.github.io/neic.no.
 ### Work locally if you can (not trivial on Windows)
 
 1. Clone the source code to your laptop.
-2. Serve it with `jekyll serve`.
+2. Serve it with `bundle exec jekyll serve`.
 3. See changes live on [http://localhost:4000/](http://localhost:4000/).
 4. Edit until happy.
 5. Commit.
@@ -136,3 +136,12 @@ This is a simple, non-elegant solution:
 3. Commit.
 4. Push your changes.
 5. Delete the broken clone.
+
+### Automatic preview generation
+
+When pushing changes to the GitHub repo, and automatic preview will be generated as
+a GitHub action. It's available [here](https://neicpreview.tigerstedt.net/). Note that the preview takes 
+around 30 seconds to build and it's only available over IPv6. 
+
+The index page title contains information about the branch, commmit SHA and date of build. If two persons are pushing at the same time, the last will be shown. Activity from others can be viewed in the [Actions tab](https://github.com/neicnordic/neic.no/actions) and from there the preview action can also be rerun.
+

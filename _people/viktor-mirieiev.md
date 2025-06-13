@@ -11,6 +11,7 @@ on_contract: no
 has_been_on_contract: yes
 groups:
   puhuri:
+    finished: yes
   nordiquest:
     finished: yes
 ---

@@ -15,6 +15,7 @@ groups:
   neic2017-prg:
   neic2015-pc:
   board:
+  puhuri-sg:
   glenna-sg:
   dellingr-sg:
     role: Observer

@@ -13,4 +13,5 @@ groups:
   board:
   xt-board:
   provider-forum:
+  puhuri-sg:
 ---

@@ -7,10 +7,11 @@ country: SE
 photo:
 email: per-olov.hammargren@it.uu.se
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract:
 groups:
   dellingr:
   dellingr-sg:
   puhuri-sg:
+    finished: yes
 ---

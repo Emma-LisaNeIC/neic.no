@@ -3,13 +3,11 @@ layout: master
 include: activity
 name: Puhuri
 type: Project
-leader: anders-sjostrom
+leader: jarno-laitinen
 phase: In progress
 start: 2020-06-01
-end: 2025-05-31
+end: 2027-05-31
 finished: no
-results: https://wiki.neic.no/wiki/Puhuri
-outreach: https://wiki.neic.no/wiki/Puhuri#Outreach
 documents:
    - text: Project Plan
      url: https://wiki.neic.no/w/ext/img_auth.php/c/ce/Puhuri_2_Project_Plan_20220603.pdf 
@@ -17,8 +15,6 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/b/b7/Puhuri2-Collaboration-Agreement-3.pdf 
    - text: Terms of Reference of the Reference Group
      url: https://wiki.neic.no/w/ext/img_auth.php/b/bc/Terms_of_Reference_for_Puhuri_Reference_Group.pdf
-   - text: Reference Group members 
-     url: https://wiki.neic.no/wiki/Puhuri#Reference_Group
    - text: Business Case
      url: https://wiki.neic.no/w/ext/img_auth.php/6/62/Puhuri_Business_Case.pdf
    - text: Deliverable 1 on Requirements collection and technical architecture plan.
@@ -33,8 +29,8 @@ documents:
      url: https://wiki.neic.no/w/ext/img_auth.php/d/d6/D.A1.1_Current_state_report.pdf
    - text: D.A2.1. Current state report in April 2023
      url: https://wiki.neic.no/w/ext/img_auth.php/0/0c/DA2.1.pdf   
-   - text: Puhuri Whitepaper, October 2023
-     url: https://wiki.neic.no/w/ext/img_auth.php/8/80/Puhuri_Whitepaper.pdf
+   - text: Puhuri Whitepaper, May 2025
+     url: https://wiki.neic.no/w/ext/img_auth.php/7/75/Whitepaper_.pdf
 links:
   - url: https://wiki.neic.no/wiki/Puhuri
     text: External wiki
@@ -50,39 +46,34 @@ links:
     description: Landing page for the Puhuri service
 groups:
   puhuri:
-    name: Team
-    minutes: https://wiki.neic.no/int/Category:Puhuri_team_meetings_2020 
-    frequency: weekly
+    name: Project Group
+    minutes: https://wiki.neic.no/int/Puhuri 
+    frequency: The project group is havign biweekly meetings
+    description: Implementation of the project work.
   puhuri-sg:
     name: Steering Group
-    minutes: https://wiki.neic.no/wiki/Category:Puhuri_steering_group_meetings
-    frequency: quaterly
+    minutes: https://wiki.neic.no/int/Puhuri 
+    frequency: Meetings 3-4 times per year
+    description: Governance and priorisation decisions
   puhuri-rg:
     name: Reference Group
     minutes: https://wiki.neic.no/wiki/Category:Puhuri_reference_group_meetings
-    frequency: quaterly
-    description: <a href="https://wiki.neic.no/wiki/Puhuri#Reference_Group">Reference Group members</a>
-  puhuri-po:
-    name: Project office
-    minutes: https://wiki.neic.no/int/Category:Puhuri_management_meetings_2020 
-    frequency: weekly
-     
+    frequency: Meeting frequency 3 times per year
+    description: <a href="https://wiki.neic.no/wiki/Puhuri#Reference_Group">Reference Group members</a> 
 ---
 ## Puhuri
 
 ### Background
 
 * Seamless access to <A HREF="https://www.lumi-supercomputer.eu/">LUMI supercomputer</A> and to other Resources used by the NeIC projects.
-* Deploying services for resource allocation and tracking, and federated group management.
-
-The goals of Puhuri's second phase are to ensure sustainability of the Puhuri authentication and authorisation infrastructure (AAI) and increase adoption of the services developed during phase 1 of the project. The project will also aim to improve functionalities of the Puhuri system.
+* Services for resource allocation and reporting.
 
 ### Collaborations
 Consortium:
 * CSC – IT Center for Science, FI
-* University of Iceland, IS
 * Sigma2, NO
 * ETAIS, EE
 * NAISS, SE
 * DeiC, DK
-
+Observers:
+* IT4I IT4Innovations National Supercomputing Center, CZ 

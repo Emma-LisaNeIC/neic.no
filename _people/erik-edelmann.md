@@ -13,5 +13,4 @@ groups:
   nt1:
     role: Alice Operations Contact
   puhuri:
-    finished: yes
 ---
