@@ -1,7 +1,7 @@
 ---
 title: New senior advisor
 summary: "Michaela Barth"
-photo: /assets/images/latest-news-91.jpeg
+photo: /assets/images/michaela-barth.png
 ---
 
 New senior advisor for NeIC
