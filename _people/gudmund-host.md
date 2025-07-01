@@ -7,7 +7,7 @@ country: "NO"
 photo: assets/images/people/gudmund-host.jpg
 email: gudmund.host@nordforsk.org
 phone:
-on_contract: yes
+on_contract: no
 has_been_on_contract: yes
 groups:
   xt:
@@ -29,7 +29,7 @@ groups:
   neic2022-pc:
     role: Ex officio
 ---
-Gudmund Høst is the Director of NeIC, and is employed at
+Gudmund Høst was the Director of NeIC from 2012-2024, currently employed at
 [NordForsk](https://www.nordforsk.org/) in Oslo.
 
 Prior to this he has held positions at the Research Council of Norway and the
