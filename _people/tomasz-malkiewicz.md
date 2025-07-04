@@ -80,3 +80,4 @@ groups:
   nordiquest-po:
     role: Project owner
 ---
+Director of NeIC, CSC Finland
