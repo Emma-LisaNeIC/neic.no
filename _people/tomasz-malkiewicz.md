@@ -80,3 +80,11 @@ groups:
   nordiquest-po:
     role: Project owner
 ---
+Tomasz Malkiewicz is the Director of NeIC, and is employed at CSC - IT Center for Science Ltd. in Espoo, Finland.
+
+Malkiewicz has worked with NeIC as Executive Manager and been a part of the executive team from January 2017 to December 2024. Throughout the years, he has acted as project owner for several NeIC projects, Puhuri, CodeRefinery and NordIQuEst being the most recent ones.
+
+Malkiewicz has worked for CSC in managerial and specialist positions since 2011 and has been a member of the Management Group since 2016. 
+
+Malkiewicz holds a PhD in nuclear physics from University of Jyväskylä, Finland.  Before joining CSC, he had worked as a CNRS postdoctoral researcher at the LPSC Grenoble, France.
+
