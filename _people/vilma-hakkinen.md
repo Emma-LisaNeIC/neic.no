@@ -12,6 +12,7 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Administrative coordinator
+    finished: yes
   neic2022-pc:
     role: Secretary
   neic2022-oc:
