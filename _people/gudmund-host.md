@@ -12,10 +12,13 @@ has_been_on_contract: yes
 groups:
   xt:
     role: Director
+    finished: yes
   board:
     role: Ex officio, non-voting
+    finished: yes
   provider-forum:
     role: Observer
+    finished: yes
   neic2017-sg:
     role: Project owner, Chair
   neic2017-prg:
@@ -25,7 +28,6 @@ groups:
     role: Project owner
   neic2015-prg:
     role: Chair
-  xt-board:
   neic2022-pc:
     role: Ex officio
 ---
