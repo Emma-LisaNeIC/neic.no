@@ -11,7 +11,7 @@ on_contract: yes
 has_been_on_contract: yes
 groups:
   xt:
-    role: Executive manager
+    role: Director
   provider-forum:
     role: Secretary
     finished: yes
