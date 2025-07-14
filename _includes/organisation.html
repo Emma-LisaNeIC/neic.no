@@ -10,7 +10,8 @@
 
             <div id="tree"/>
     
-        <script>
+        <!--
+	<script>
         OrgChart.templates.ula = Object.assign({}, OrgChart.templates.ana);
         OrgChart.templates.ula.padding = [5, 5, 5, 5];
         OrgChart.templates.ula.field_0 = 
@@ -58,7 +59,7 @@
 		args.value = '<a target="_blank" href="' + link + '">' + name +  '</a>';
         });
 
-	    <!--
+	    
             chart.load([
                 { id: 1, name: "Tomasz Malkiewicz", title: "Director", img: "{% include baseurl %}/assets/images/people/tomasz-malkiewicz.jpg", link: "{% include baseurl %}/people/tomasz-malkiewicz" },
                 { id: 2, pid: 1, name: "Abdulrahman Azab", title: "Senior advisor, Project owner", img: "{% include baseurl %}/assets/images/people/Abdulrahman_Azab2.jpg", link: "{% include baseurl %}/people/abdulrahman-azab" },
@@ -70,7 +71,7 @@
                 { id: 8, pid: 4, name: "Jarno Laitinen", title: "Project Manager, Puhuri 3", img: "{% include baseurl %}/assets/images/people/jarno-laitinen.JPG", link: "{% include baseurl %}/people/jarno-laitinen" },
                 { id: 9, pid: 4, name: "Samantha Wittke", title: "Project manager, CodeRefinery", img: "https://cdn.balkan.app/shared/empty-img-white.svg", link: "{% include baseurl %}/people/Samantha-Wittke" },
             ])
-		-->
+		
             window.addEventListener('resize', function () {
             if (timeout) {
                 clearTimeout(timeout)
@@ -81,7 +82,8 @@
             })
 
     };
-        </script>
+        </script> 
+		    -->
        
     </div>
 
