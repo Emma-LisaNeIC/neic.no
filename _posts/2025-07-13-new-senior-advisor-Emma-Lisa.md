@@ -1,0 +1,16 @@
+---
+title: One more Senior Advisor starting at NeIC
+summary: "Emma-Lisa Hannsson has started as Senior Advisor 2025-05-08."
+photo: /assets/images/latest-news-66.png
+---
+
+One more Senior Advisor to strengthen the NeIC Executive Team
+=================================================
+<p><b>Emma-Lisa Hannsson</b> has started as Senior Advisor 2025-05-08.</p> 
+<p>NeIC welcomes Emma-Lisa Hansson in her new capacity as NeIC Senior Advisor where she will act as a valued part of the NeIC Executive Team (XT) and join the efforts on implementing upcoming funding opportunities and closely follow NeIC's collaboration activities.</p>
+<p>Formerly part of the Puhuri project group as an activity leader, Emma-Lisa, with her compelling nature and a bubbling and seemingly endless energy, was already well known within NeIC as a positive and engaged force to be reckoned with. Her NeIC tasks will also profit from Emma-Lisa's continued engagement to work with analysing data management gaps in Swedish research e-infrastructure systems and support and influence national and European digital infrastructure as part of her work with research data architecture and data management practices on behalf of LUNARC - the Center for Scientific and Technical Computing at Lund University in Sweden. Now Emma-Lisa is itching to effectively serve the Nordic research community and to support NeIC in all of its endeavours. Diving right in, she has agreed to be in charge of the next NeIC AHM in Tallinn.</p>
+<img class="normal" src="{% include baseurl %}assets/images/people/Emma-Lisa_Hansson.jpg" height="180" style="float: left" margin="0px 5px">
+<p> I'm fascinated by the bigger picture of the e-infrastructure landscape and connecting all pieces together. It's been a very positive experience working in a NeIC project as a project member, and I'm looking forward to new adventures together with the XT team, says Emma-Lisa.</p>
+<p>Emma-Lisa offers extensive experience in strategic e-infrastructure management and Nordic research collaboration through projects like HALRIC Hanseatic Science Cloud, Puhuri 2, EOSC Nordic and Swedish projects aiming to design the National data management businesses architecture roadmap and even has corporate experience. Her ability to see the whole picture and effectively engage diverse stakeholders will be a great asset to NeIC. As a Master of Library and Information Science she has robust analytical, communication, and information management skills and a broader, interdisciplinary view.</p> 
+<p> I envision myself as a flexible and attentive Senior Advisor at NeIC, always looking for ways to proactively tackle challenges and ensure our communication hits the mark. I'm simply enthusiastic about engaging with Nordic research communities and directly contributing to NeIC's important work.</p> 
+<p>NeIC is looking forward to seeing more of her remarkable commitment, dedication and diligence, her result-oriented, yet still careful approach and is delighted to be able to make good use of her deeper understanding of data management principles, policy environments and research data ecosystems coupled with her excellent collaboration abilities building on effective communication and highly-motivated problem-solving capabilities.</p> 
